@@ -11,7 +11,7 @@
         
         <br>
         
-        <p align=center><img src="images/image2.png"><p>      
+        <p align=center><img src="images/image2.png" width=60%><p>      
 
               
         <br>  
