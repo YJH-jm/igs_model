@@ -33,7 +33,7 @@
 <br>
 <br>
 
-## 2.데이터 선정
+## 2.데이터 확인
 - 데이터의 segmentation 정보 확인
     <p align=center><img src="images/image4.png" width = 60%><p>
     
