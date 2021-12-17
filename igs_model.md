@@ -57,7 +57,10 @@
     - 판정하고자 하는 사진의 배경에 영향을 받지 않기 위해 Object Detection 알고리즘 선택
       
     
-    [제목 없음](https://www.notion.so/d8855c2776ae42ae889a850445c64148)
+    <br>
+    <p align=center><img src="images/image8.png" width = 80%><p>
+    <br>
+
     
     - 맞출 수 있는 hyper-parameter를 동일하게 설정한 후 학습 실행
     - 등급 별로 이미지가 많은 차이가 있지 않기 때문에 classification loss에 좀 더 비중을 두고 고려
